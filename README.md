@@ -1,5 +1,6 @@
 # Bnds-Issdcc-Cheatsheet
-Collaborative effort at creating a cheat sheet for ISSDCC competition 
+------------------------------------------------------------------------------------
+
 Our purpose is to create a suitable cheatsheet for future reference.All contents should be:
   1.From peer reviewed papers(published), organized in a concise manner and referenced.
   2.No more than 300 words for a single topic/technology
