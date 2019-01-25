@@ -1,0 +1,20 @@
+List of Contents:
+1.Human Needs In Space		(HF)
+	a.Physical Needs
+	b.Psychological Needs
+2.Operation in Space		(OP)
+	a.Production
+	b.Maneuver/Locomotion
+	c.Maintenance
+3.Automation in Space		(Au)
+	a.Human Augmentation
+	b.Autonomous Operation
+4.Structural Considerations (St)
+	a.Design Philosophy
+	b.Habitat/Man supporting structure
+	c.Propulsion
+	d.Electrical&Thermal
+5.Schedule & Cost		   (C/S)
+	a.Global & Industrial Throughput
+	b.Cost of common material
+	c.Timeline of Other Space Program
