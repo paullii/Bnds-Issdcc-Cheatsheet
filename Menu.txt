@@ -7,8 +7,8 @@ List of Contents:
 	b.Maneuver/Locomotion
 	c.Maintenance
 3.Automation in Space		(Au)
-	a.Human Augmentation
-	b.Autonomous Operation
+	a.Human Augmentation (Paul)
+	b.Autonomous Operation (Paul)
 4.Structural Considerations (St)
 	a.Design Philosophy
 	b.Habitat/Man supporting structure
